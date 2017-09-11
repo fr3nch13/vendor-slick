@@ -1,0 +1,11 @@
+{
+	"name": "fr3nch13/vendor-slick",
+	"type": "component",
+	"keywords": ["jquery", "carousel"],
+	"description": "From: https://github.com/kenwheeler/slick",
+	"homepage": "https://github.com/fr3nch13/vendor-slick",
+    	"require": {
+		"components/jquery": "*",
+		"components/jqueryui": "*"
+	}
+}
